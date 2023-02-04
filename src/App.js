@@ -3,7 +3,7 @@ import Mov from './Mov';
 
 const nav = ['All','movies', 'anime','series','cartoon']
 const objs = [
-  {name:'Dragon Ball Super Hero', url:'./img/DBS.jpg',cate:'anime'},
+  {name:'Dragon Ball Super Hero', url:'img/DBS.jpg',cate:'anime'},
   {name:'Game Of Thrones', url:'img/GOT.jpg',cate:'series'},
   {name:'Prisoners', url:'img/PRI.jpg',cate:'movies'},
   {name:'The Way Back', url:'img/TWB.jpg',cate:'movies'},
